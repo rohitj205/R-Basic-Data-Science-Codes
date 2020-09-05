@@ -1,3 +1,8 @@
+# Title     : IRIS DATA SET
+# Objective : E D A
+# Created by: Rohit Jagadish
+# Created on: 9/5/2020
+
 #Iris Data Set
 
 datasets::iris #importing iris dataset which is in-built in CRAN
@@ -45,5 +50,3 @@ plot(iris$Sepal.Length,iris$Petal.Length)
 plot(iris$Sepal.Width,iris$Petal.Width)
 
 plot(iris$Sepal.Width,iris$Petal.Width,col=iris$Species)
-
-
